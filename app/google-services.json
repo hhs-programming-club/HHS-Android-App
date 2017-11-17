@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "400770787158",
+    "firebase_url": "https://hhsapp-66089.firebaseio.com",
+    "project_id": "hhsapp-66089",
+    "storage_bucket": "hhsapp-66089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400770787158:android:dd250c6cb8e31f28",
+        "android_client_info": {
+          "package_name": "com.hhsprogramming.hhsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400770787158-ugou3anlvi9q56ornuhf0hpm4mfj8l78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hhsprogramming.hhsapp",
+            "certificate_hash": "407e431b6e56e31341d16dc0d1756ee35d592ecb"
+          }
+        },
+        {
+          "client_id": "400770787158-2kuknqfp4b0mnlua7pkvq0h7kobp5ujq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTMz_47xE1Rw-bZGN-A4FDwUslk66-E0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400770787158-2kuknqfp4b0mnlua7pkvq0h7kobp5ujq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
